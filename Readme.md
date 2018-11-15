@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ExampleUtils.cs](./CS/ExampleUtils.cs) (VB: [ExampleUtils.vb](./VB/ExampleUtils.vb))
+* [LoginForm.cs](./CS/LoginForm.cs) (VB: [LoginForm.vb](./VB/LoginForm.vb))
+* [MainForm.cs](./CS/MainForm.cs) (VB: [MainForm.vb](./VB/MainForm.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # Show alert notifications of only appointments that are associated with the current user
 
 
